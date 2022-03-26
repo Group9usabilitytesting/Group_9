@@ -1,0 +1,8 @@
+1. Install Xamp(for mac OS)/ Wamp (for windows)
+2. Now goto the "www" folder in "C:\wamp64\"
+3. Import the "ODLMS folder" into "www folder" 
+4. start Xamp/Wamp server.
+5. Goto web browser and open localhost.
+6. Add virtual host (i.e ODLMS folder) to the server.
+7. Now click on odlms in the virtual host section of locl host page. 
+8. Our webpages will display.
